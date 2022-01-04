@@ -1,5 +1,12 @@
 # Laravel
 
+### Folder Structure
+
+|ID|Description|Link|
+| :------------| :------------ | :------------ |
+|1.|Windows_Laravel|*[Windows_Laravel Link]()*|
+|0.|0|*[0 Link](0)*|
+
 * Great Laravale learning videos
     * https://www.youtube.com/watch?v=5rENfaExzeQ&t=5659s
     * https://www.youtube.com/watch?v=1-6vBAPvU4k&t=237s
