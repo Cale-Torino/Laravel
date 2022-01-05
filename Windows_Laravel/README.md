@@ -14,11 +14,27 @@ https://www.youtube.com/watch?v=NdL-sbjIaOI
 
 1. Make sure `XAMPP` is installed and running with `PHP` and `MySQL` services installed
 
+[<img src="img/xampp.jpg" width="500"/>](img/xampp.jpg)
+
+Also make sure NodeJS is installed https://nodejs.org/en/download
+
+Check if node LTS version of nodejs `node -pe process.release.lts`.
+
+```
+node --version
+
+node -pe process.release.lts
+```
+
+[<img src="img/node.jpg" width="500"/>](img/node.jpg)
+
 2. Now download and run the windows composer `Composer-Setup.exe` file
 ```
 https://getcomposer.org/download/
 ```
 Make sure to select the PHP executable in your `XAMPP` folder
+
+[<img src="img/composer.jpg" width="500"/>](img/composer.jpg)
 
 3. Make the folder `C:\Software\xampp\htdocs\Laraval-projects`
 
@@ -26,6 +42,8 @@ Make sure to select the PHP executable in your `XAMPP` folder
 ```
 cd C:\Software\xampp\htdocs\Laraval-projects
 ```
+
+[<img src="img/composer_version.jpg" width="500"/>](img/composer_version.jpg)
 
 5. Installation Via Composer 
 ```
@@ -74,8 +92,6 @@ pause
 ```
 
 ## Setting up Tailwind CSS
-
-check if node LTS version `node -pe process.release.lts`
 
 https://www.youtube.com/watch?v=HKJDLXsTr8A&t=3333s
 
